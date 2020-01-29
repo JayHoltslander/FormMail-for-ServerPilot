@@ -24,7 +24,7 @@ You run this script locally, give it the info it needs to connect and configure 
 ## Uninstalling.
 1. Via SFTP, delete your ``cgi-bin`` folder and it's contents.
 2. Via SFTP, delete your ``public/formmail-test.html`` file.
-3. Via SSH, delete ``/etc/apache-sp/vhosts.d/[APPNAME].d/cgi-bin.conf``
+3. Via SSH (as root user), delete ``/etc/apache-sp/vhosts.d/[APPNAME].d/cgi-bin.conf``
 
 ### Relevant articles
 * [FormMail's ReadMe](http://www.scriptarchive.com/readme/formmail.html)
