@@ -16,9 +16,10 @@ You run this script locally, give it the info it needs to connect and configure 
 * This counts as a customization that could complicate/nullify your ServerPilot support options.
 
 
-## Installing
+## Installing & Running
 1. Make sure to ``chmod 755 install-formmail.sh`` the installer so it has the correct permissions required to run.
-2. Run with ``./install-formmail.sh``
+2. Run on your local machine with ``./install-formmail.sh``
+3. Works best if you have SSH keys already set for your root user and for your ServerPilot user. [[Instructions](https://serverpilot.io/docs/how-to-use-ssh-public-key-authentication/)]
 
 ## Uninstalling.
 1. Via SFTP, delete your ``cgi-bin`` folder and it's contents.
