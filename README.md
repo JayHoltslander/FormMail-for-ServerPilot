@@ -13,8 +13,8 @@ You run this script, give it the info it needs to configure everything, it sets 
 **Note:** This counts as a customization that could complicate/nullify your ServerPilot support options.
 
 ## Uninstalling.
-1. Via SFTP, delete your cgi-bin folder and it's contents.
-2. Via SFTP, delete your public/formmail-test.html file.
+1. Via SFTP, delete your ``cgi-bin`` folder and it's contents.
+2. Via SFTP, delete your ``public/formmail-test.html`` file.
 3. Via SSH, delete ``/etc/apache-sp/vhosts.d/[APPNAME].d/cgi-bin.conf``
 
 ### Relevant articles
