@@ -1,4 +1,4 @@
-# FormMail-for-ServerPilot
+# FormMail for ServerPilot
 
 You're now seconds away from working forms for your static html site.
 
