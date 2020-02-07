@@ -1,4 +1,5 @@
 # FormMail for ServerPilot
+[![works badge](https://cdn.jsdelivr.net/gh/nikku/works-on-my-machine@v0.2.0/badge.svg)](https://github.com/nikku/works-on-my-machine)
 
 You're now seconds away from working forms for your static html site.
 
